@@ -43,7 +43,7 @@ Every department managed risk its own way, so the same risk got a different rati
 
 ## 🧭 How I Approached It
 
-The project ran over two weeks, building from understanding the problem to handing over a framework the bank could run itself.
+The project moved from understanding the problem to handing over a framework the bank could run itself.
 
 | Stage | What I did | Output |
 |---|---|---|
