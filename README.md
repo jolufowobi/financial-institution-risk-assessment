@@ -133,5 +133,3 @@ All 37 risks pass. The checks also caught two inconsistent ratings, which I corr
 - Microsoft Word
 - Microsoft PowerPoint
 - GitHub and Markdown
-
-AI assistance was used to help structure documents and review wording. I reviewed and decided the final content.
